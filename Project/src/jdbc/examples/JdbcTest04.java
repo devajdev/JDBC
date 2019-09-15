@@ -1,5 +1,5 @@
 // program to register user or inserting details into user register table Static
-
+//Devaj
 package jdbc.examples;
 import java.sql.*;
 public class JdbcTest04{
